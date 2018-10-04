@@ -1,8 +1,8 @@
-# Angular6SpringBoot
+# Angular6 + SpringBoot + CRUD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
-## After Clone
+## After Clone This Repository
 run `npm install` from terminal to install packages.
 
 ## Development server
